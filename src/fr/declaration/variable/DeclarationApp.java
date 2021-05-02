@@ -13,10 +13,10 @@ public class DeclarationApp {
 		char g = 'g';
 		boolean h = true;
 		String i = "bonjour";
-		String randomString = "VOici le résultat d'un calcul :\n 2 + 2 = 4";
+		String randomString = "VOici le rï¿½sultat d'un calcul :\n 2 + 2 = 4";
+		int v = 06;
 		
-		System.out.println(randomString);
-
+		System.out.println(v);
 	}
 
 
